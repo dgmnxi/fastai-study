@@ -1,0 +1,11 @@
+# fastbook 폴더 무시
+fastbook/
+
+# 가상환경 폴더 무시
+.venv/
+
+# Jupyter 체크포인트 무시
+.ipynb_checkpoints/
+
+# pycache 무시
+__pycache__/
